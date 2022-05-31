@@ -1,5 +1,11 @@
 Blockversity
+
+
+
 The Objective of this project is to make user friendly Ethereum Based Marketplace which has features like:
+
+
+
 ●	The marketplace page will have the  real-time updates of Ether currency and course prices compared to the US dollar.
 ●	The modal window is dedicated to making orders
 ●	 Email hashing solution to maintain client's privacy. 
